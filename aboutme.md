@@ -2,15 +2,11 @@
 layout: page
 title: About me
 subtitle: Why you'd want to go on a date with me
+published: true
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+###안녕하세요. 웹개발자 이태희입니다.
 
-- I rock a great mustache
-- I'm extremely loyal to my family
 
-What else do you need?
-
-### my history
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+####2018.02 ~ 2018.12 조인스중앙, 	 웹개발(C# + ASP.NET)
+####2019.01 ~         롯데정보통신, 	웹개발(C# + ASP.NET), CS 개발(Winforms)
